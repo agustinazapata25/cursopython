@@ -1,0 +1,6 @@
+mensaje = input("ingrese frase")
+mensaje1= mensaje.replace("a"," ")
+mensaje2= mensaje1.replace("e"," ")
+mensaje3= mensaje2.replace("i"," ")
+mensaje4= mensaje3.replace("u"," ")
+print(mensaje4)
